@@ -1,0 +1,1 @@
+print("bigyan raja")
